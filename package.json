@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaroshanton/nodejs-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaroshanton/nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/yaroshanton/nodejs-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
