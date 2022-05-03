@@ -19,5 +19,9 @@
   "homepage": "https://github.com/yaroshanton/nodejs-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.4.1"
   }
 }
